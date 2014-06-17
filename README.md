@@ -7,144 +7,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Excel.Sheet>
 <meta name=Generator content="Microsoft Excel 12">
 <link rel=File-List href="图书馆荐购计划.files/filelist.xml">
-<style id="图书馆荐购计划_18732_Styles">
-<!--table
-	{mso-displayed-decimal-separator:"\.";
-	mso-displayed-thousand-separator:"\,";}
-.font518732
-	{color:windowtext;
-	font-size:9.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;}
-.font618732
-	{color:#111111;
-	font-size:9.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;}
-.xl1518732
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:black;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:general;
-	vertical-align:middle;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl6418732
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:#111111;
-	font-size:9.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	mso-number-format:General;
-	text-align:general;
-	vertical-align:middle;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl6518732
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:black;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:"\@";
-	text-align:general;
-	vertical-align:middle;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl6618732
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:#111111;
-	font-size:9.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	mso-number-format:"\@";
-	text-align:general;
-	vertical-align:middle;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl6718732
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:black;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:left;
-	vertical-align:middle;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-ruby
-	{ruby-align:left;}
-rt
-	{color:windowtext;
-	font-size:9.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-char-type:none;}
--->
-</style>
-</head>
 
 <body>
-<!--[if !excel]>　　<![endif]-->
-<!--下列信息由 Microsoft Office Excel 的“发布为网页”向导生成。-->
-<!--如果同一条目从 Excel 中重新发布，则所有位于 DIV 标记之间的信息均将被替换。-->
-<!----------------------------->
-<!--“从 EXCEL 发布网页”向导开始-->
-<!----------------------------->
 
 <h1>日新网2014图书馆荐购计划书目</h1>
 
@@ -329,9 +193,6 @@ rt
 </div>
 
 
-<!----------------------------->
-<!--“从 EXCEL 发布网页”向导结束-->
-<!----------------------------->
 </body>
 
 </html>
