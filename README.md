@@ -71,6 +71,12 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <td class=xl6518732><font class="font618732">电子工业出版社</font></td>
   <td class=xl1518732></td>
  </tr>
+  <tr height=18 valign=middle style='height:13.5pt'>
+  <td height=18 class=xl1518732 style='height:13.5pt'>Ruby Cookbook</td>
+  <td class=xl6318732>9780596523695</td>
+  <td class=xl6518732><font class="font618732">O'Reilly Media</font></td>
+  <td class=xl1518732></td>
+ </tr>
  <tr height=18 valign=middle style='height:13.5pt'>
   <td height=18 class=xl1518732 style='height:13.5pt'>Orange'S一个操作系统的实现</td>
   <td class=xl6318732>9787121084423</td>
@@ -99,12 +105,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <td height=18 class=xl1518732 style='height:13.5pt'>程序员的思维修炼：开发认知潜能的九堂课</td>
   <td class=xl6318732>9787115242334</td>
   <td class=xl6518732>人民邮电出版社</td>
-  <td class=xl1518732></td>
- </tr>
- <tr height=18 valign=middle style='height:13.5pt'>
-  <td height=18 class=xl1518732 style='height:13.5pt'></td>
-  <td class=xl6318732></td>
-  <td class=xl6518732></td>
   <td class=xl1518732></td>
  </tr>
  <tr height=18 valign=middle style='height:13.5pt'>
@@ -181,12 +181,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <td height=18 class=xl1518732 style='height:13.5pt'>失控：全人类的最终命运和结局</td>
   <td class=xl6318732>9787513300711</td>
   <td class=xl1518732>新星出版社</td>
-  <td class=xl1518732></td>
- </tr>
- <tr height=18 valign=middle style='height:13.5pt'>
-  <td height=18 class=xl1518732 style='height:13.5pt'>Ruby Cookbook</td>
-  <td class=xl6318732>9780596523695</td>
-  <td class=xl6518732><font class="font618732">O'Reilly Media</font></td>
   <td class=xl1518732></td>
  </tr>
  <![if supportMisalignedColumns]>
