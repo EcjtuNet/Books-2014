@@ -187,6 +187,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <td height=18 class=xl1518732 style='height:13.5pt'>Ruby Cookbook</td>
   <td class=xl6318732>9780596523695</td>
   <td class=xl6518732><font class="font618732">O'Reilly Media</font></td>
+  <td class=xl1518732></td>
  </tr>
  <![if supportMisalignedColumns]>
  <tr height=0 style='display:none'>
