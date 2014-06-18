@@ -17,6 +17,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <!--“从 EXCEL 发布网页”向导开始-->
 <!----------------------------->
 
+<h1>日新网2014图书馆荐购计划书目</h1>
+
 <div id="图书馆荐购计划_18732" align=center x:publishsource="Excel">
 
 <table border=0 cellpadding=0 cellspacing=0 width=1267 style='border-collapse:
