@@ -36,14 +36,14 @@ xmlns="http://www.w3.org/TR/REC-html40">
  </tr>
  <tr class=xl1518732 height=18 valign=middle style='height:13.5pt'>
   <td height=18 class=xl1518732 style='height:13.5pt'>Ajax权威指南</td>
-  <td class=xl6518732>9787111272953</td>
-  <td class=xl6618732>机械工业出版社</td>
+  <td class=xl6418732>9787111272953</td>
+  <td class=xl6518732>机械工业出版社</td>
   <td class=xl1518732></td>
  </tr>
  <tr height=18 valign=middle style='height:13.5pt'>
   <td height=18 class=xl1518732 style='height:13.5pt'>UNIX环境高级编程(第二版)</td>
   <td class=xl6318732>9787115147318</td>
-  <td class=xl6618732>人民邮电出版社</td>
+  <td class=xl6518732>人民邮电出版社</td>
   <td class=xl1518732></td>
  </tr>
  <tr height=18 valign=middle style='height:13.5pt'>
@@ -62,37 +62,49 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <td height=18 class=xl1518732 style='height:13.5pt'>Programming Ruby:The
   Pragmatic Programmers' Guide, Second Edition</td>
   <td class=xl6318732>9780974514055</td>
-  <td class=xl6618732>Pragmatic Bookshelf</td>
+  <td class=xl6518732>Pragmatic Bookshelf</td>
   <td class=xl1518732>Ruby最经典的书之一，图书馆只有两本过时的07年中翻版</td>
  </tr>
  <tr height=18 valign=middle style='height:13.5pt'>
   <td height=18 class=xl1518732 style='height:13.5pt'>Ruby编程语言</td>
   <td class=xl6318732>9787121077012</td>
-  <td class=xl6618732><font class="font618732">电子工业出版社</font></td>
+  <td class=xl6518732><font class="font618732">电子工业出版社</font></td>
   <td class=xl1518732></td>
  </tr>
  <tr height=18 valign=middle style='height:13.5pt'>
   <td height=18 class=xl1518732 style='height:13.5pt'>Orange'S一个操作系统的实现</td>
   <td class=xl6318732>9787121084423</td>
-  <td class=xl6618732><font class="font618732">电子工业出版社</font></td>
+  <td class=xl6518732><font class="font618732">电子工业出版社</font></td>
   <td class=xl1518732></td>
  </tr>
  <tr height=18 valign=middle style='height:13.5pt'>
   <td height=18 class=xl1518732 style='height:13.5pt'>算法导论</td>
   <td class=xl6318732>9787111187776</td>
-  <td class=xl6618732><font class="font618732">机械工业出版社</font></td>
+  <td class=xl6518732><font class="font618732">机械工业出版社</font></td>
   <td class=xl1518732>算法经典，图书馆没有这个中文版</td>
  </tr>
  <tr height=18 valign=middle style='height:13.5pt'>
   <td height=18 class=xl1518732 style='height:13.5pt'>响应式Web设计实践</td>
   <td class=xl6318732>9787115304094</td>
-  <td class=xl6618732><font class="font618732">人民邮电出版社</font></td>
+  <td class=xl6518732><font class="font618732">人民邮电出版社</font></td>
   <td class=xl1518732></td>
  </tr>
  <tr height=18 valign=middle style='height:13.5pt'>
   <td height=18 class=xl1518732 style='height:13.5pt'>TCP/IP Sockets编程： C语言实现</td>
   <td class=xl6318732>9787302211372</td>
-  <td class=xl6618732><font class="font618732">清华大学出版社</font></td>
+  <td class=xl6518732><font class="font618732">清华大学出版社</font></td>
+  <td class=xl1518732></td>
+ </tr>
+ <tr height=18 valign=middle style='height:13.5pt'>
+  <td height=18 class=xl1518732 style='height:13.5pt'>程序员的思维修炼：开发认知潜能的九堂课</td>
+  <td class=xl6318732>9787115242334</td>
+  <td class=xl6518732>人民邮电出版社</td>
+  <td class=xl1518732></td>
+ </tr>
+ <tr height=18 valign=middle style='height:13.5pt'>
+  <td height=18 class=xl1518732 style='height:13.5pt'></td>
+  <td class=xl6318732></td>
+  <td class=xl6518732></td>
   <td class=xl1518732></td>
  </tr>
  <tr height=18 valign=middle style='height:13.5pt'>
@@ -104,31 +116,31 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <tr height=18 valign=middle style='height:13.5pt'>
   <td height=18 class=xl1518732 style='height:13.5pt'>在你身边，为你设计</td>
   <td class=xl6318732>9787121186066</td>
-  <td class=xl6618732><font class="font618732">电子工业出版社</font></td>
+  <td class=xl6518732><font class="font618732">电子工业出版社</font></td>
   <td class=xl1518732></td>
  </tr>
  <tr height=18 valign=middle style='height:13.5pt'>
   <td height=18 class=xl1518732 style='height:13.5pt'>点石成金：访客至上的网页设计秘笈</td>
   <td class=xl6318732>9787111184829</td>
-  <td class=xl6618732><font class="font618732">机械工业出版社</font></td>
+  <td class=xl6518732><font class="font618732">机械工业出版社</font></td>
   <td class=xl1518732></td>
  </tr>
  <tr height=18 valign=middle style='height:13.5pt'>
   <td height=18 class=xl1518732 style='height:13.5pt'>应需而变：为瞬息万变的世界提供伟大的产品和服务</td>
   <td class=xl6318732>9787111265672</td>
-  <td class=xl6618732><font class="font618732">机械工业出版社</font></td>
+  <td class=xl6518732><font class="font618732">机械工业出版社</font></td>
   <td class=xl1518732></td>
  </tr>
  <tr height=18 valign=middle style='height:13.5pt'>
   <td height=18 class=xl1518732 style='height:13.5pt'>赢在用户：Web人物角色创建和应用实践指</td>
   <td class=xl6318732>9787111218883</td>
-  <td class=xl6618732><font class="font618732">机械工业出版社</font></td>
+  <td class=xl6518732><font class="font618732">机械工业出版社</font></td>
   <td class=xl1518732></td>
  </tr>
  <tr height=18 valign=middle style='height:13.5pt'>
   <td height=18 class=xl1518732 style='height:13.5pt'>用户体验草图设计</td>
   <td class=xl6318732>9787121097560</td>
-  <td class=xl6618732>电子工业出版社</td>
+  <td class=xl6518732>电子工业出版社</td>
   <td class=xl1518732></td>
  </tr>
  <tr height=18 valign=middle style='height:13.5pt'>
@@ -147,7 +159,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <td height=18 class=xl1518732 style='height:13.5pt'>三体</td>
   <td class=xl6318732>9787536692930</td>
   <td class=xl1518732>重庆出版社</td>
-  <td rowspan=3 class=xl6418732>中国科幻鼻祖</td>
+  <td rowspan=3 class=xl6618732>中国科幻鼻祖</td>
  </tr>
  <tr height=18 valign=middle style='height:13.5pt'>
   <td height=18 class=xl1518732 style='height:13.5pt'>三体2：黑暗森林</td>
@@ -184,3 +196,4 @@ xmlns="http://www.w3.org/TR/REC-html40">
 </body>
 
 </html>
+
