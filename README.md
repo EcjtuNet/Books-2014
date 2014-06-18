@@ -144,6 +144,12 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <td class=xl1518732></td>
  </tr>
  <tr height=18 valign=middle style='height:13.5pt'>
+  <td height=18 class=xl1518732 style='height:13.5pt'>人人都是产品经理</td>
+  <td class=xl6318732>9787121105777</td>
+  <td class=xl6518732>电子工业出版社</td>
+  <td class=xl1518732></td>
+ </tr>
+ <tr height=18 valign=middle style='height:13.5pt'>
   <td height=18 class=xl1518732 style='height:13.5pt'></td>
   <td class=xl6318732></td>
   <td class=xl1518732></td>
