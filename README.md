@@ -220,6 +220,12 @@
   <td class=xl1518732>上海世纪出版股份有限公司</td>
   <td class=xl1518732></td>
  </tr>
+<tr height=18 valign=middle style='height:13.5pt'>
+  <td height=18 class=xl1518732 style='height:13.5pt'>中国哲学史</td>
+  <td class=xl6318732>9787229012632</td>
+  <td class=xl1518732>重庆出版社</td>
+  <td class=xl1518732></td>
+ </tr>
  <tr height=0 style='display:none'>
   <td width=547 style='width:410pt'></td>
   <td width=137 style='width:103pt'></td>
