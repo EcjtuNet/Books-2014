@@ -201,7 +201,6 @@
   <td class=xl6318732>9787307075429</td>
   <td class=xl1518732>武汉大学出版社</td>
   <td class=xl1518732>一本看完之后，开始怀疑世界的书。</td>
-  <td class=xl1518732></td>
  </tr>
  <tr height=0 style='display:none'>
   <td width=547 style='width:410pt'></td>
