@@ -1,33 +1,7 @@
-<html xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:x="urn:schemas-microsoft-com:office:excel"
-xmlns="http://www.w3.org/TR/REC-html40">
-
-<head>
-<meta http-equiv=Content-Type content="text/html; charset=utf-8">
-<meta name=ProgId content=Excel.Sheet>
-<meta name=Generator content="Microsoft Excel 12">
-<link rel=File-List href="图书馆荐购计划.files/filelist.xml">
-</head>
-
-<body>
-<!--[if !excel]>　　<![endif]-->
-<!--下列信息由 Microsoft Office Excel 的“发布为网页”向导生成。-->
-<!--如果同一条目从 Excel 中重新发布，则所有位于 DIV 标记之间的信息均将被替换。-->
-<!----------------------------->
-<!--“从 EXCEL 发布网页”向导开始-->
-<!----------------------------->
-
-<h1>日新网2014图书馆荐购计划书目</h1>
-
-<div id="图书馆荐购计划_18732" align=center x:publishsource="Excel">
-
-<table border=0 cellpadding=0 cellspacing=0 width=1267 style='border-collapse:
- collapse;table-layout:fixed;width:950pt'>
- <col width=547 style='mso-width-source:userset;mso-width-alt:17504;width:410pt'>
- <col class=xl6318732 width=137 style='mso-width-source:userset;mso-width-alt:
- 4384;width:103pt'>
- <col width=192 style='mso-width-source:userset;mso-width-alt:6144;width:144pt'>
- <col width=391 style='mso-width-source:userset;mso-width-alt:12512;width:293pt'>
+#[日新网](http://www.ecjtu.net)2014图书馆荐购计划书目
+>用一本好书来开辟一个新的灵魂
+***
+<table border=0 cellpadding=0 cellspacing=0 width=1267 style='border-collapse:collapse;table-layout:fixed;width:950pt'>
  <tr height=18 valign=middle style='height:13.5pt'>
   <td height=18 class=xl1518732 width=547 style='height:13.5pt;width:410pt'>书名</td>
   <td class=xl6318732 width=137 style='width:103pt'>ISBN</td>
@@ -108,6 +82,12 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <td class=xl1518732></td>
  </tr>
  <tr height=18 valign=middle style='height:13.5pt'>
+  <td height=18 class=xl1518732 style='height:13.5pt'>Metasploit渗透测试指南</td>
+  <td class=xl6318732>9787121154874</td>
+  <td class=xl6518732>电子工业出版社</td>
+  <td class=xl1518732></td>
+ </tr>
+ <tr height=18 valign=middle style='height:13.5pt'>
   <td height=18 class=xl1518732 style='height:13.5pt'></td>
   <td class=xl6318732></td>
   <td class=xl1518732></td>
@@ -149,6 +129,30 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <td class=xl6518732>电子工业出版社</td>
   <td class=xl1518732></td>
  </tr>
+<tr height=18 valign=middle style='height:13.5pt'>
+  <td height=18 class=xl1518732 style='height:13.5pt'>结网</td>
+  <td class=xl6318732>9787115313973</td>
+  <td class=xl6518732>人民邮电出版社</td>
+  <td class=xl1518732></td>
+ </tr>
+<tr height=18 valign=middle style='height:13.5pt'>
+  <td height=18 class=xl1518732 style='height:13.5pt'>淘宝产品十年事</td>
+  <td class=xl6318732>9787121215728</td>
+  <td class=xl6518732>电子工业出版社</td>
+  <td class=xl1518732></td>
+ </tr>
+<tr height=18 valign=middle style='height:13.5pt'>
+  <td height=18 class=xl1518732 style='height:13.5pt'>决胜移动端</td>
+  <td class=xl6318732>9787508637563</td>
+  <td class=xl6518732>浙江人民出版社</td>
+  <td class=xl1518732></td>
+ </tr>
+<tr height=18 valign=middle style='height:13.5pt'>
+  <td height=18 class=xl1518732 style='height:13.5pt'>平台战略</td>
+  <td class=xl6318732>9787213058639</td>
+  <td class=xl6518732>中信出版社</td>
+  <td class=xl1518732></td>
+ </tr>
  <tr height=18 valign=middle style='height:13.5pt'>
   <td height=18 class=xl1518732 style='height:13.5pt'></td>
   <td class=xl6318732></td>
@@ -183,23 +187,18 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <td class=xl1518732>新星出版社</td>
   <td class=xl1518732></td>
  </tr>
- <![if supportMisalignedColumns]>
+ <tr height=18 valign=middle style='height:13.5pt'>
+  <td height=18 class=xl1518732 style='height:13.5pt'>天才在左 疯子在右</td>
+  <td class=xl6318732>9787307075429</td>
+  <td class=xl1518732>武汉大学出版社</td>
+  <td class=xl1518732></td>
+ </tr>
  <tr height=0 style='display:none'>
   <td width=547 style='width:410pt'></td>
   <td width=137 style='width:103pt'></td>
   <td width=192 style='width:144pt'></td>
   <td width=391 style='width:293pt'></td>
  </tr>
- <![endif]>
 </table>
 
-</div>
-
-
-<!----------------------------->
-<!--“从 EXCEL 发布网页”向导结束-->
-<!----------------------------->
-</body>
-
-</html>
 
