@@ -1,4 +1,7 @@
+
 #[日新网](http://www.ecjtu.net)技术研发中心2014推荐书目
+
+
 >用一本好书来开辟一个新的灵魂
 ***
 <table border=0 cellpadding=0 cellspacing=0 width=1267 style='border-collapse:collapse;table-layout:fixed;width:950pt'>
@@ -198,6 +201,7 @@
   <td class=xl6318732>9787307075429</td>
   <td class=xl1518732>武汉大学出版社</td>
   <td class=xl1518732>一本看完之后，开始怀疑世界的书。</td>
+  <td class=xl1518732></td>
  </tr>
  <tr height=0 style='display:none'>
   <td width=547 style='width:410pt'></td>
