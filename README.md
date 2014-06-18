@@ -226,6 +226,12 @@
   <td class=xl1518732>重庆出版社</td>
   <td class=xl1518732></td>
  </tr>
+<tr height=18 valign=middle style='height:13.5pt'>
+  <td height=18 class=xl1518732 style='height:13.5pt'>马未都杂志：出门</td>
+  <td class=xl6318732>9787515303215</td>
+  <td class=xl1518732>中国青年出版社</td>
+  <td class=xl1518732>写的超唯美，有种冲动走遍世界</td>
+ </tr>
  <tr height=0 style='display:none'>
   <td width=547 style='width:410pt'></td>
   <td width=137 style='width:103pt'></td>
